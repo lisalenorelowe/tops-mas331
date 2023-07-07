@@ -1,11 +1,13 @@
-name: project
+name: mas331 
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - branca
-  - folium
   - pandas
   - matplotlib
   - numpy
   - wget
+  - xarray
+  - netcdf4
+  - scipy
+  - datetime
+  - cartopy
