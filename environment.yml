@@ -9,5 +9,4 @@ dependencies:
   - xarray
   - netcdf4
   - scipy
-  - datetime
   - cartopy
