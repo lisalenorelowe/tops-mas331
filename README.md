@@ -16,7 +16,7 @@ Lab 8, Satellite remote sensing
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab08_Satellite_Remote_Sensing%2FMAS_331L_Lab_8_Satellite_Remote_Sensing.ipynb)
 
 Lab 9, Storm surge
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab09_Storm_Surge%2Fhttps://github.com/mas300labs-uofsa/tops-mas331/blob/main/Lab09_Storm_Surge/MAS_331L_Lab_9_Storm_Surge.ipynb)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab09_Storm_Surge%2FMAS_331L_Lab_9_Storm_Surge.ipynb)
 
 Lab 13, Ocean acidification: coral reefs
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab13_Ocean_Acid_Coral_Reefs%2FMAS_331L_Lab_12_Ocean_Acidification.ipynb)
