@@ -10,4 +10,4 @@ dependencies:
   - netcdf4
   - scipy
   - cartopy
-  - sklearn
+  - scikit-learn
