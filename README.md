@@ -12,8 +12,11 @@ Lab 6, CTD data
 Lab 7, Sensible and latent heat
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab07_Sensible_and_Latent_Heat%2FMAS_331L_Lab_7_Sensible_and_Latent_Heat.ipynb)
 
-Lab 8, Satellite remote sensing
+Lab 8, Satellite remote sensing - original
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab08_Satellite_Remote_Sensing%2FMAS_331L_Lab_8_Satellite_Remote_Sensing.ipynb)
+
+Notes on Mur post-processing and Cartopy: alternatives for Lab 8
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab08_Satellite_Remote_Sensing%2FMur_and_Cartopy.ipynb)
 
 Lab 9, Storm surge
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/tops-mas331/HEAD?labpath=Lab09_Storm_Surge%2FMAS_331L_Lab_9_Storm_Surge.ipynb)
